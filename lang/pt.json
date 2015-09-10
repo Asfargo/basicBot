@@ -131,6 +131,6 @@
     "voteratio": "/me [@%%NAME%%] @%%USERNAME%% recebeu %%WOOT%% Woots e %%MEHS%% Mehs. Ratio (w/m): %%RATIO%%.",
     "website": "/me Visite nosso site: %%LINK%%",
     "youtube": "/me [%%NAME%%] Inscreva-se no nosso canal: %%LINK%%",
-    "songstatistics": "/me %%ARTIST%% - %%TITLE%% recebeu %%WOOTS%%W/%%GRABS%%G/%%MEHS%%M."
+    "songstatistics": " %%ARTIST%% - %%TITLE%% recebeu %%WOOTS%%W/%%GRABS%%G/%%MEHS%%M."
 
 }
